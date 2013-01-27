@@ -12,6 +12,8 @@ namespace samplecode_01
         {
             Console.WriteLine("helloWorld");
 
+            Class1.class1();
+
         }
     }
 }
